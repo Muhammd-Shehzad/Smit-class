@@ -12,7 +12,7 @@ class SecurityDeposit extends StatefulWidget {
 
 class _SecurityDepositState extends State<SecurityDeposit> {
   List<String> text = [
-    '1:I thorougly read,understood,and signied the Zu Bicycle Terms and Condations in writtenform.',
+    '1:I thorougly rejjjjjjjjjjjjjad,understood,and signied the Zu Bicycle Terms and Condations in writtenform.',
     '2:I agree for my refundable security to be credited in zu wallet in case of De-registering from Zu Bicycle.'
   ];
   @override
@@ -82,7 +82,7 @@ class _SecurityDepositState extends State<SecurityDeposit> {
                   ),
                   child: Center(
                     child: Text(
-                      'ZU WALLET',
+                      'ZU WALLEeeeT',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 26.sp,
