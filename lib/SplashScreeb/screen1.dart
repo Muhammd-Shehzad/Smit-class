@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter1/screen2.dart';
+import 'package:flutter1/SplashScreeb/screen2.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class Screen1 extends StatefulWidget {

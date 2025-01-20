@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter1/BicycleScreen/BicyclePage/MembershipPages/security_deposit.dart';
-import 'package:flutter1/BicycleScreen/BicyclePage/MembershipPages/view_packges.dart';
+import 'package:flutter1/BicycleScreen/BicyclePage/security_deposit.dart';
+import 'package:flutter1/BicycleScreen/BicyclePage/view_packges.dart';
+
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class MemeberShip extends StatefulWidget {

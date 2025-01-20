@@ -5,7 +5,7 @@ import 'package:flutter1/BicycleScreen/BicyclePage/member_ship.dart';
 import 'package:flutter1/BicycleScreen/BicyclePage/near_by.dart';
 import 'package:flutter1/BicycleScreen/BicyclePage/ride_history.dart';
 import 'package:flutter1/BicycleScreen/BicyclePage/term_condation.dart';
-import 'package:flutter1/screen1.dart';
+import 'package:flutter1/SplashScreeb/screen1.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class BicyclePage extends StatefulWidget {

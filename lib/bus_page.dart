@@ -5,7 +5,7 @@ import 'package:flutter1/BusPages/BusPage/complaints.dart';
 import 'package:flutter1/BusPages/BusPage/service_hour.dart';
 import 'package:flutter1/BusPages/BusPage/travel_history.dart';
 import 'package:flutter1/BusPages/BusPage/zu_map.dart';
-import 'package:flutter1/screen1.dart';
+import 'package:flutter1/SplashScreeb/screen1.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class BusPage extends StatefulWidget {

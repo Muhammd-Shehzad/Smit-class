@@ -5,7 +5,7 @@ import 'package:flutter1/TicketsPage/recharge.dart';
 import 'package:flutter1/TicketsPage/recharge_history.dart';
 import 'package:flutter1/TicketsPage/trip_planner.dart';
 import 'package:flutter1/TicketsPage/zu_car_services.dart';
-import 'package:flutter1/screen1.dart';
+import 'package:flutter1/SplashScreeb/screen1.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class TicketsPage extends StatefulWidget {
